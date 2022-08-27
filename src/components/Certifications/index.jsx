@@ -19,6 +19,7 @@ const About = () => {
           <strong>Backend</strong>
           
           <a href="https://certificates.ccbp.in/intensive/programming-foundations?id=TQVCQVXCHR" target="_blank"> <li>Python </li> </a>
+    <a href="https://certificates.ccbp.in/intensive/node-js?id=QGTJLJSXRY" target="_blank"> <li> NodeJs </li> </a>
           
 
         </div>
